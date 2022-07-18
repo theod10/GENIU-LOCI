@@ -1,0 +1,16 @@
+descriere :
+genius loci ( spiritul locului ) se doreste a fi o marturisire a atasamentului de locurile 
+natale. 
+Este un pitch video de relevare si elevare a identitatii locale pentru orasul copilariei mele Barlad.        
+
+
+Descriere tehnica 
+Intreg materialul este rezultat din asamblarea unor cerinte care in alte forme de enunt sunt de fapt teme de evaluare a unei discipline Estetica Digitala - CDS care se studiaza la Colegiul Gh.R.Codreanu
+( prelucrare foto-video utilizand framework-urile paint.net , davinci resolve si natron )
+
+Cerinte de sistem 
+Pentru editare de continut HD minim procesor din clasa quadcore, placa video minim 1Gb/128 biti
+memorie minim 4 Gb RAM
+
+Link
+https://drive.google.com/file/d/16e9J0E2xVikFQNMMhOxcEsZHi2fV80a-/view?usp=sharing        
